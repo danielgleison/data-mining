@@ -1,4 +1,5 @@
 # Mecanismo de predição de fraudes financeiras utilizando aprendizado de máquina e processamento distribuído
+# Financial fraud prediction mechanism using machine learning and distributed processing
 
 Dataset:\
 http://www.kaggle.com/ntnu-testimon/paysim1
