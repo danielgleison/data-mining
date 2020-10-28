@@ -17,7 +17,7 @@ Class Distribution:\
 
 Requirements:\
 Python Version: 3.6.9\
-Spark Version: 2.4.5
+Apache Spark Version: 2.4.5
 
 ---
 Developed by:\
