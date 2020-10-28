@@ -16,5 +16,5 @@ Class Distribution:\
 6.354.407 without fraud and 8.213 with fraud
 
 ---
-Elaborado por:\
+Developed by:\
 Daniel Gleison (daniel.gleison@aluno.uece.br)
