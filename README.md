@@ -13,5 +13,4 @@ Number of Attributes:
 11 attributes (5 Decimal, 3 Integer, 3 String)
 
 Class Distribution:
-2 Classes
 6.354.407 without fraud and 8.213 with fraud
