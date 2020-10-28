@@ -16,7 +16,7 @@ Class Distribution:\
 6.354.407 without fraud and 8.213 with fraud
 
 Requirements:\
-Python Version: 3.6.9
+Python Version: 3.6.9\
 Spark Version: 2.4.5
 
 ---
