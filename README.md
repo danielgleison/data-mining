@@ -17,5 +17,5 @@ Class Distribution:\
 
 ---
 Elaborado por:\
-Daniel Gleison
+Daniel Gleison\
 daniel.gleison@aluno.uece.br
