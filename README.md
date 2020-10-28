@@ -1,7 +1,7 @@
 # Mecanismo de predição de fraudes financeiras utilizando aprendizado de máquina e processamento distribuído
 
 Dataset:
-https://www.kaggle.com/ntnu-testimon/paysim1
+http://www.kaggle.com/ntnu-testimon/paysim1
 
 Predicted attribute:
 Class of fraud detection
