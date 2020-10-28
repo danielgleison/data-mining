@@ -16,7 +16,7 @@ Class Distribution:\
 6.354.407 without fraud and 8.213 with fraud
 
 Spark Version:\
-v2.4.5
+2.4.5
 
 ---
 Developed by:\
