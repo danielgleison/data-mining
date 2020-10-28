@@ -15,8 +15,8 @@ Number of Attributes:\
 Class Distribution:\
 6.354.407 without fraud and 8.213 with fraud
 
-Requirements
-Python: 3.8
+Requirements:\
+Python: 3.x\
 Spark Version: 2.4.5
 
 ---
