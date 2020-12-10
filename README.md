@@ -20,5 +20,7 @@ Python Version: 3.6.9\
 Apache Spark Version: 2.4.5
 
 ---
-Developed by:\
-Daniel Gleison (daniel.gleison@aluno.uece.br)
+Daniel Gleison M. Lira\
+Mestrado Acadêmico em Ciência da Computação\
+Universidade Estadual do Ceará (UECE)\
+daniel.gleison@aluno.uece.br 
